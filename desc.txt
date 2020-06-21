@@ -1,0 +1,4 @@
+Some information about that VM
+-Pop!_OS
+-2nd info
+-3rd info
